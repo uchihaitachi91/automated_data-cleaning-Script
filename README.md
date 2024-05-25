@@ -51,10 +51,7 @@ python train.py
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
-- The MNIST dataset provided by Yann LeCun, Corinna Cortes and Christopher J.C. Burges.
+- The MNIST dataset was provided by Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.
 - The CNN architecture is inspired by the LeNet-5 model.
 
